@@ -1,9 +1,0 @@
-C:\Users\amoty\Documents\Visual Studio 2017\Projects\SQLServerServicesManager\SQLServerServicesManager\obj\Release\SQLServerServicesManager.Form1.resources
-C:\Users\amoty\Documents\Visual Studio 2017\Projects\SQLServerServicesManager\SQLServerServicesManager\obj\Release\MSSQLEXPRESSTurnOnOff.csproj.GenerateResource.cache
-C:\Users\amoty\Documents\Visual Studio 2017\Projects\SQLServerServicesManager\SQLServerServicesManager\obj\Release\MSSQLEXPRESSTurnOnOff.csproj.CoreCompileInputs.cache
-C:\Users\amoty\Documents\Visual Studio 2017\Projects\SQLServerServicesManager\SQLServerServicesManager\bin\Release\MSSQLTunOnOff.exe
-C:\Users\amoty\Documents\Visual Studio 2017\Projects\SQLServerServicesManager\SQLServerServicesManager\bin\Release\MSSQLTunOnOff.pdb
-C:\Users\amoty\Documents\Visual Studio 2017\Projects\SQLServerServicesManager\SQLServerServicesManager\obj\Release\MSSQLTunOnOff.Properties.Resources.resources
-C:\Users\amoty\Documents\Visual Studio 2017\Projects\SQLServerServicesManager\SQLServerServicesManager\obj\Release\MSSQLTunOnOff.exe
-C:\Users\amoty\Documents\Visual Studio 2017\Projects\SQLServerServicesManager\SQLServerServicesManager\obj\Release\MSSQLTunOnOff.pdb
-C:\Users\amoty\Documents\Visual Studio 2017\Projects\SQLServerServicesManager\SQLServerServicesManager\obj\Release\MSSQLEXPRESSTurnOnOff.csprojResolveAssemblyReference.cache

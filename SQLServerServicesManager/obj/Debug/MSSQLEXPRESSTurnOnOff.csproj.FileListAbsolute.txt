@@ -1,9 +1,0 @@
-C:\Users\amoty\Documents\Visual Studio 2017\Projects\SQLServerServicesManager\SQLServerServicesManager\obj\Debug\MSSQLEXPRESSTurnOnOff.csprojResolveAssemblyReference.cache
-C:\Users\amoty\Documents\Visual Studio 2017\Projects\SQLServerServicesManager\SQLServerServicesManager\obj\Debug\SQLServerServicesManager.Form1.resources
-C:\Users\amoty\Documents\Visual Studio 2017\Projects\SQLServerServicesManager\SQLServerServicesManager\obj\Debug\MSSQLEXPRESSTurnOnOff.csproj.GenerateResource.cache
-C:\Users\amoty\Documents\Visual Studio 2017\Projects\SQLServerServicesManager\SQLServerServicesManager\obj\Debug\MSSQLEXPRESSTurnOnOff.csproj.CoreCompileInputs.cache
-C:\Users\amoty\Documents\Visual Studio 2017\Projects\SQLServerServicesManager\SQLServerServicesManager\bin\Debug\MSSQLTunOnOff.exe
-C:\Users\amoty\Documents\Visual Studio 2017\Projects\SQLServerServicesManager\SQLServerServicesManager\bin\Debug\MSSQLTunOnOff.pdb
-C:\Users\amoty\Documents\Visual Studio 2017\Projects\SQLServerServicesManager\SQLServerServicesManager\obj\Debug\MSSQLTunOnOff.Properties.Resources.resources
-C:\Users\amoty\Documents\Visual Studio 2017\Projects\SQLServerServicesManager\SQLServerServicesManager\obj\Debug\MSSQLTunOnOff.exe
-C:\Users\amoty\Documents\Visual Studio 2017\Projects\SQLServerServicesManager\SQLServerServicesManager\obj\Debug\MSSQLTunOnOff.pdb
